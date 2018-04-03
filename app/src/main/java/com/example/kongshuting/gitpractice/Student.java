@@ -17,4 +17,8 @@ public class Student {
      * 分数
      */
     private long score;
+    /**
+     * 学校
+     */
+    private String school;
 }
