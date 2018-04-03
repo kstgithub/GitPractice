@@ -9,4 +9,8 @@ public class Student {
      * 年龄
      */
     public int age;
+    /**
+     * 名字
+     */
+    private String name;
 }
