@@ -21,4 +21,6 @@ public class Student {
      * 学校
      */
     private String school;
+
+    private String pick1;
 }
