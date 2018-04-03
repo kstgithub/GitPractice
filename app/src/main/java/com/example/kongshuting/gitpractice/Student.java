@@ -5,4 +5,8 @@ public class Student {
      * 性别
      */
     public String sex;
+    /**
+     * 年龄
+     */
+    public int age;
 }
