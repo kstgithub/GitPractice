@@ -26,4 +26,5 @@ public class Student {
 
     private String pick2;
 
+    private String pick3;
 }
