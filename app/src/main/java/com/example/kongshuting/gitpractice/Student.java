@@ -13,4 +13,8 @@ public class Student {
      * 名字
      */
     private String name;
+    /**
+     * 分数
+     */
+    private long score;
 }
