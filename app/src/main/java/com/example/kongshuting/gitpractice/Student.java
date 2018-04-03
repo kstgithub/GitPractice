@@ -23,4 +23,7 @@ public class Student {
     private String school;
 
     private String pick1;
+
+    private String pick2;
+
 }
