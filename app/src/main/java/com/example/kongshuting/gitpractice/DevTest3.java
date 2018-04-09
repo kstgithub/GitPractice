@@ -6,4 +6,7 @@ package com.example.kongshuting.gitpractice;
  */
 
 public class DevTest3 {
+    private String test1 = "test1";
+
+    private String test2;
 }
